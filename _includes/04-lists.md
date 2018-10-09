@@ -1,0 +1,6 @@
+- Coding
+- Music
+- Boardgame
+- Dogs
+- Aquarium
+- Basketball
