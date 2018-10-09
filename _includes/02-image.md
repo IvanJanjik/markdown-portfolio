@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of German Boxer dog](http://nosamisleschiens.fr/wp-content/uploads/2016/07/chiot-boxer-1024x682.jpg)
