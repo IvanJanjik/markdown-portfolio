@@ -1,6 +1,6 @@
-*Coding
-*Music
-*Boardgame
-*Dog
-*Aquarium
-*Basketball
+- Coding
+- Music
+- Boardgame
+- Dogs
+- Aquarium
+- Basketball
